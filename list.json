@@ -1,0 +1,1938 @@
+[
+    {
+        "id": 1,
+        "rotation": {
+            "z": -19.52151679992675,
+            "y": 1.0369666814804,
+            "x": -0.4650176167488
+        },
+        "type": "delete",
+        "coords": {
+            "z": 53.09632110595703,
+            "y": -240.990478515625,
+            "x": 310.9968872070313
+        },
+        "options": {
+            "freeze": false,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": false
+        },
+        "model": -1063472968
+    },
+    {
+        "id": 2,
+        "rotation": {
+            "z": -19.52151679992675,
+            "y": 1.0369666814804,
+            "x": -0.4650176167488
+        },
+        "type": "delete",
+        "coords": {
+            "z": 53.09632110595703,
+            "y": -240.990478515625,
+            "x": 310.9968872070313
+        },
+        "options": {
+            "freeze": false,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": false
+        },
+        "model": -1063472968
+    },
+    {
+        "id": 3,
+        "rotation": {
+            "z": 159.0027313232422,
+            "y": -0.0,
+            "x": 0.0
+        },
+        "type": "delete",
+        "coords": {
+            "z": 53.20331573486328,
+            "y": -240.59130859375,
+            "x": 309.8436279296875
+        },
+        "options": {
+            "freeze": false,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": false
+        },
+        "model": -2008643115
+    },
+    {
+        "id": 4,
+        "rotation": {
+            "z": 159.0027313232422,
+            "y": -0.0,
+            "x": 0.0
+        },
+        "type": "delete",
+        "coords": {
+            "z": 53.20331573486328,
+            "y": -240.59130859375,
+            "x": 309.8436279296875
+        },
+        "options": {
+            "freeze": false,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": false
+        },
+        "model": -2008643115
+    },
+    {
+        "id": 5,
+        "rotation": {
+            "z": -129.61312866210938,
+            "y": -2.41232800483703,
+            "x": -0.63590669631958
+        },
+        "type": "delete",
+        "coords": {
+            "z": 53.14143371582031,
+            "y": -239.80850219726569,
+            "x": 310.1685485839844
+        },
+        "options": {
+            "freeze": false,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": false
+        },
+        "model": -1211968443
+    },
+    {
+        "id": 6,
+        "rotation": {
+            "z": -129.61312866210938,
+            "y": -2.41232800483703,
+            "x": -0.63590669631958
+        },
+        "type": "delete",
+        "coords": {
+            "z": 53.14143371582031,
+            "y": -239.80850219726569,
+            "x": 310.1685485839844
+        },
+        "options": {
+            "freeze": false,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": false
+        },
+        "model": -1211968443
+    },
+    {
+        "id": 7,
+        "rotation": {
+            "z": 176.93211364746098,
+            "y": -1.14098215103149,
+            "x": 1.86702418327331
+        },
+        "type": "delete",
+        "coords": {
+            "z": 53.34013366699219,
+            "y": -239.5694580078125,
+            "x": 309.3661193847656
+        },
+        "options": {
+            "freeze": false,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": false
+        },
+        "model": 1735046030
+    },
+    {
+        "id": 8,
+        "rotation": {
+            "z": 176.93211364746098,
+            "y": -1.14098215103149,
+            "x": 1.86702418327331
+        },
+        "type": "delete",
+        "coords": {
+            "z": 53.34013366699219,
+            "y": -239.5694580078125,
+            "x": 309.3661193847656
+        },
+        "options": {
+            "freeze": false,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": false
+        },
+        "model": 1735046030
+    },
+    {
+        "id": 9,
+        "rotation": {
+            "z": 157.99998474121098,
+            "y": -0.0,
+            "x": 0.0
+        },
+        "type": "delete",
+        "coords": {
+            "z": 52.98287200927734,
+            "y": -231.41107177734376,
+            "x": 300.6798400878906
+        },
+        "options": {
+            "freeze": false,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": false
+        },
+        "model": 1211559620
+    },
+    {
+        "id": 10,
+        "rotation": {
+            "z": 157.99998474121098,
+            "y": -0.0,
+            "x": 0.0
+        },
+        "type": "delete",
+        "coords": {
+            "z": 52.98287200927734,
+            "y": -231.41107177734376,
+            "x": 300.6798400878906
+        },
+        "options": {
+            "freeze": false,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": false
+        },
+        "model": 1211559620
+    },
+    {
+        "id": 11,
+        "rotation": {
+            "z": 157.99998474121098,
+            "y": -0.0,
+            "x": 0.0
+        },
+        "type": "delete",
+        "coords": {
+            "z": 52.97560119628906,
+            "y": -231.10147094726569,
+            "x": 299.8356018066406
+        },
+        "options": {
+            "freeze": false,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": false
+        },
+        "model": 720581693
+    },
+    {
+        "id": 12,
+        "rotation": {
+            "z": 157.99998474121098,
+            "y": -0.0,
+            "x": 0.0
+        },
+        "type": "delete",
+        "coords": {
+            "z": 52.97560119628906,
+            "y": -231.10147094726569,
+            "x": 299.8356018066406
+        },
+        "options": {
+            "freeze": false,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": false
+        },
+        "model": 720581693
+    },
+    {
+        "id": 13,
+        "rotation": {
+            "z": 157.99998474121098,
+            "y": -0.0,
+            "x": 0.0
+        },
+        "type": "delete",
+        "coords": {
+            "z": 52.96961975097656,
+            "y": -230.91802978515626,
+            "x": 299.1516418457031
+        },
+        "options": {
+            "freeze": false,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": false
+        },
+        "model": -838860344
+    },
+    {
+        "id": 14,
+        "rotation": {
+            "z": 157.99998474121098,
+            "y": -0.0,
+            "x": 0.0
+        },
+        "type": "delete",
+        "coords": {
+            "z": 52.96961975097656,
+            "y": -230.91802978515626,
+            "x": 299.1516418457031
+        },
+        "options": {
+            "freeze": false,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": false
+        },
+        "model": -838860344
+    },
+    {
+        "id": 15,
+        "rotation": {
+            "z": -19.77960777282715,
+            "y": -0.0,
+            "x": -0.0
+        },
+        "type": "delete",
+        "coords": {
+            "z": 52.97439575195312,
+            "y": -231.31124877929688,
+            "x": 299.3262329101563
+        },
+        "options": {
+            "freeze": false,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": false
+        },
+        "model": -1940238623
+    },
+    {
+        "id": 16,
+        "rotation": {
+            "z": -19.77960777282715,
+            "y": -0.0,
+            "x": -0.0
+        },
+        "type": "delete",
+        "coords": {
+            "z": 52.97439575195312,
+            "y": -231.31124877929688,
+            "x": 299.3262329101563
+        },
+        "options": {
+            "freeze": false,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": false
+        },
+        "model": -1940238623
+    },
+    {
+        "id": 17,
+        "rotation": {
+            "z": 157.99998474121098,
+            "y": -0.0,
+            "x": 0.0
+        },
+        "type": "delete",
+        "coords": {
+            "z": 52.97584533691406,
+            "y": -230.6617431640625,
+            "x": 298.3716125488281
+        },
+        "options": {
+            "freeze": false,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": false
+        },
+        "model": 1287257122
+    },
+    {
+        "id": 18,
+        "rotation": {
+            "z": 157.99998474121098,
+            "y": -0.0,
+            "x": 0.0
+        },
+        "type": "delete",
+        "coords": {
+            "z": 52.97584533691406,
+            "y": -230.6617431640625,
+            "x": 298.3716125488281
+        },
+        "options": {
+            "freeze": false,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": false
+        },
+        "model": 1287257122
+    },
+    {
+        "id": 19,
+        "rotation": {
+            "z": 159.75059509277345,
+            "y": -0.0,
+            "x": 0.0
+        },
+        "type": "delete",
+        "coords": {
+            "z": 52.97474670410156,
+            "y": -230.1893310546875,
+            "x": 296.9541320800781
+        },
+        "options": {
+            "freeze": false,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": false
+        },
+        "model": 1363150739
+    },
+    {
+        "id": 20,
+        "rotation": {
+            "z": 159.75059509277345,
+            "y": -0.0,
+            "x": 0.0
+        },
+        "type": "delete",
+        "coords": {
+            "z": 52.97474670410156,
+            "y": -230.1893310546875,
+            "x": 296.9541320800781
+        },
+        "options": {
+            "freeze": false,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": false
+        },
+        "model": 1363150739
+    },
+    {
+        "id": 21,
+        "rotation": {
+            "z": -20.00489044189453,
+            "y": -0.0,
+            "x": -0.0
+        },
+        "type": "delete",
+        "coords": {
+            "z": 52.92288208007812,
+            "y": -244.6253662109375,
+            "x": 320.8719177246094
+        },
+        "options": {
+            "freeze": false,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": false
+        },
+        "model": -71417349
+    },
+    {
+        "id": 22,
+        "rotation": {
+            "z": -20.00489044189453,
+            "y": -0.0,
+            "x": -0.0
+        },
+        "type": "delete",
+        "coords": {
+            "z": 52.92288208007812,
+            "y": -244.6253662109375,
+            "x": 320.8719177246094
+        },
+        "options": {
+            "freeze": false,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": false
+        },
+        "model": -71417349
+    },
+    {
+        "id": 23,
+        "rotation": {
+            "z": 67.04203033447266,
+            "y": 0.0,
+            "x": 0.0
+        },
+        "type": "delete",
+        "coords": {
+            "z": 53.22099304199219,
+            "y": -227.10877990722657,
+            "x": 312.7159423828125
+        },
+        "options": {
+            "freeze": false,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": false
+        },
+        "model": -741944541
+    },
+    {
+        "id": 24,
+        "rotation": {
+            "z": 67.04203033447266,
+            "y": 0.0,
+            "x": 0.0
+        },
+        "type": "delete",
+        "coords": {
+            "z": 53.22099304199219,
+            "y": -227.10877990722657,
+            "x": 312.7159423828125
+        },
+        "options": {
+            "freeze": false,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": false
+        },
+        "model": -741944541
+    },
+    {
+        "id": 25,
+        "rotation": {
+            "z": 73.03986358642578,
+            "y": 0.0,
+            "x": 0.0
+        },
+        "type": "delete",
+        "coords": {
+            "z": 53.22099304199219,
+            "y": -226.22531127929688,
+            "x": 313.09661865234377
+        },
+        "options": {
+            "freeze": false,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": false
+        },
+        "model": -741944541
+    },
+    {
+        "id": 26,
+        "rotation": {
+            "z": 73.03986358642578,
+            "y": 0.0,
+            "x": 0.0
+        },
+        "type": "delete",
+        "coords": {
+            "z": 53.22099304199219,
+            "y": -226.22531127929688,
+            "x": 313.09661865234377
+        },
+        "options": {
+            "freeze": false,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": false
+        },
+        "model": -741944541
+    },
+    {
+        "id": 27,
+        "rotation": {
+            "z": 112.0058822631836,
+            "y": -0.0,
+            "x": 0.0
+        },
+        "type": "delete",
+        "coords": {
+            "z": 53.08980941772461,
+            "y": -216.3934783935547,
+            "x": 314.92010498046877
+        },
+        "options": {
+            "freeze": false,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": false
+        },
+        "model": 666561306
+    },
+    {
+        "id": 28,
+        "rotation": {
+            "z": 112.0058822631836,
+            "y": -0.0,
+            "x": 0.0
+        },
+        "type": "delete",
+        "coords": {
+            "z": 53.08980941772461,
+            "y": -216.3934783935547,
+            "x": 314.92010498046877
+        },
+        "options": {
+            "freeze": false,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": false
+        },
+        "model": 666561306
+    },
+    {
+        "id": 29,
+        "rotation": {
+            "z": 160.00315856933598,
+            "y": -0.0,
+            "x": 0.0
+        },
+        "type": "delete",
+        "coords": {
+            "z": 53.08980941772461,
+            "y": -214.20159912109376,
+            "x": 312.9451599121094
+        },
+        "options": {
+            "freeze": false,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": false
+        },
+        "model": 666561306
+    },
+    {
+        "id": 30,
+        "rotation": {
+            "z": 160.00315856933598,
+            "y": -0.0,
+            "x": 0.0
+        },
+        "type": "delete",
+        "coords": {
+            "z": 53.08980941772461,
+            "y": -214.20159912109376,
+            "x": 312.9451599121094
+        },
+        "options": {
+            "freeze": false,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": false
+        },
+        "model": 666561306
+    },
+    {
+        "id": 31,
+        "rotation": {
+            "z": 158.99700927734376,
+            "y": -0.0,
+            "x": 0.0
+        },
+        "type": "delete",
+        "coords": {
+            "z": 53.08980941772461,
+            "y": -213.8369598388672,
+            "x": 310.6532897949219
+        },
+        "options": {
+            "freeze": false,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": false
+        },
+        "model": 666561306
+    },
+    {
+        "id": 32,
+        "rotation": {
+            "z": 158.99700927734376,
+            "y": -0.0,
+            "x": 0.0
+        },
+        "type": "delete",
+        "coords": {
+            "z": 53.08980941772461,
+            "y": -213.8369598388672,
+            "x": 310.6532897949219
+        },
+        "options": {
+            "freeze": false,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": false
+        },
+        "model": 666561306
+    },
+    {
+        "id": 33,
+        "rotation": {
+            "z": -21.55121612548828,
+            "y": 2.69696879386901,
+            "x": -0.09052789956331
+        },
+        "type": "delete",
+        "coords": {
+            "z": 53.236083984375,
+            "y": -206.8869171142578,
+            "x": 309.93426513671877
+        },
+        "options": {
+            "freeze": false,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": false
+        },
+        "model": -1096777189
+    },
+    {
+        "id": 34,
+        "rotation": {
+            "z": -21.55121612548828,
+            "y": 2.69696879386901,
+            "x": -0.09052789956331
+        },
+        "type": "delete",
+        "coords": {
+            "z": 53.236083984375,
+            "y": -206.8869171142578,
+            "x": 309.93426513671877
+        },
+        "options": {
+            "freeze": false,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": false
+        },
+        "model": -1096777189
+    },
+    {
+        "id": 35,
+        "rotation": {
+            "z": 159.0112457275391,
+            "y": -0.0,
+            "x": 0.0
+        },
+        "type": "delete",
+        "coords": {
+            "z": 53.08980941772461,
+            "y": -221.16387939453129,
+            "x": 330.9806213378906
+        },
+        "options": {
+            "freeze": false,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": false
+        },
+        "model": 666561306
+    },
+    {
+        "id": 36,
+        "rotation": {
+            "z": 159.0112457275391,
+            "y": -0.0,
+            "x": 0.0
+        },
+        "type": "delete",
+        "coords": {
+            "z": 53.08980941772461,
+            "y": -221.16387939453129,
+            "x": 330.9806213378906
+        },
+        "options": {
+            "freeze": false,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": false
+        },
+        "model": 666561306
+    },
+    {
+        "id": 37,
+        "rotation": {
+            "z": 112.15371704101564,
+            "y": -0.0,
+            "x": 0.0
+        },
+        "type": "delete",
+        "coords": {
+            "z": 53.09183883666992,
+            "y": -222.3768768310547,
+            "x": 333.5545043945313
+        },
+        "options": {
+            "freeze": false,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": false
+        },
+        "model": 666561306
+    },
+    {
+        "id": 38,
+        "rotation": {
+            "z": 112.15371704101564,
+            "y": -0.0,
+            "x": 0.0
+        },
+        "type": "delete",
+        "coords": {
+            "z": 53.09183883666992,
+            "y": -222.3768768310547,
+            "x": 333.5545043945313
+        },
+        "options": {
+            "freeze": false,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": false
+        },
+        "model": 666561306
+    },
+    {
+        "id": 39,
+        "rotation": {
+            "z": 69.20613861083985,
+            "y": 0.0,
+            "x": 0.0
+        },
+        "type": "delete",
+        "coords": {
+            "z": 53.22801971435547,
+            "y": -224.11143493652345,
+            "x": 326.5609130859375
+        },
+        "options": {
+            "freeze": false,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": false
+        },
+        "model": -1096777189
+    },
+    {
+        "id": 40,
+        "rotation": {
+            "z": 69.20613861083985,
+            "y": 0.0,
+            "x": 0.0
+        },
+        "type": "delete",
+        "coords": {
+            "z": 53.22801971435547,
+            "y": -224.11143493652345,
+            "x": 326.5609130859375
+        },
+        "options": {
+            "freeze": false,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": false
+        },
+        "model": -1096777189
+    },
+    {
+        "id": 41,
+        "rotation": {
+            "z": 69.73806762695313,
+            "y": 0.0,
+            "x": 0.0
+        },
+        "type": "delete",
+        "coords": {
+            "z": 53.22475051879883,
+            "y": -224.41851806640626,
+            "x": 327.418701171875
+        },
+        "options": {
+            "freeze": false,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": false
+        },
+        "model": -1096777189
+    },
+    {
+        "id": 42,
+        "rotation": {
+            "z": 69.73806762695313,
+            "y": 0.0,
+            "x": 0.0
+        },
+        "type": "delete",
+        "coords": {
+            "z": 53.22475051879883,
+            "y": -224.41851806640626,
+            "x": 327.418701171875
+        },
+        "options": {
+            "freeze": false,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": false
+        },
+        "model": -1096777189
+    },
+    {
+        "id": 43,
+        "rotation": {
+            "z": -21.00003623962402,
+            "y": -0.0,
+            "x": -0.0
+        },
+        "type": "delete",
+        "coords": {
+            "z": 55.67328643798828,
+            "y": -224.73504638671876,
+            "x": 313.3389282226563
+        },
+        "options": {
+            "freeze": false,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": false
+        },
+        "model": 1457658556
+    },
+    {
+        "id": 44,
+        "rotation": {
+            "z": -21.00003623962402,
+            "y": -0.0,
+            "x": -0.0
+        },
+        "type": "delete",
+        "coords": {
+            "z": 55.67328643798828,
+            "y": -224.73504638671876,
+            "x": 313.3389282226563
+        },
+        "options": {
+            "freeze": false,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": false
+        },
+        "model": 1457658556
+    },
+    {
+        "id": 45,
+        "rotation": {
+            "z": -21.00003623962402,
+            "y": -0.0,
+            "x": -0.0
+        },
+        "type": "delete",
+        "coords": {
+            "z": 55.67328643798828,
+            "y": -229.264389038086,
+            "x": 325.1383056640625
+        },
+        "options": {
+            "freeze": false,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": false
+        },
+        "model": 1457658556
+    },
+    {
+        "id": 46,
+        "rotation": {
+            "z": -21.00003623962402,
+            "y": -0.0,
+            "x": -0.0
+        },
+        "type": "delete",
+        "coords": {
+            "z": 55.67328643798828,
+            "y": -229.264389038086,
+            "x": 325.1383056640625
+        },
+        "options": {
+            "freeze": false,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": false
+        },
+        "model": 1457658556
+    },
+    {
+        "id": 47,
+        "rotation": {
+            "z": -20.99992179870605,
+            "y": -0.0,
+            "x": -0.0
+        },
+        "type": "delete",
+        "coords": {
+            "z": 60.51165008544922,
+            "y": -202.5648193359375,
+            "x": 311.16571044921877
+        },
+        "options": {
+            "freeze": false,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": false
+        },
+        "model": -1895279849
+    },
+    {
+        "id": 48,
+        "rotation": {
+            "z": -20.99992179870605,
+            "y": -0.0,
+            "x": -0.0
+        },
+        "type": "delete",
+        "coords": {
+            "z": 60.51165008544922,
+            "y": -202.5648193359375,
+            "x": 311.16571044921877
+        },
+        "options": {
+            "freeze": false,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": false
+        },
+        "model": -1895279849
+    },
+    {
+        "id": 49,
+        "rotation": {
+            "z": -20.99992179870605,
+            "y": -0.0,
+            "x": -0.0
+        },
+        "type": "delete",
+        "coords": {
+            "z": 60.51165008544922,
+            "y": -212.1129608154297,
+            "x": 307.5005187988281
+        },
+        "options": {
+            "freeze": false,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": false
+        },
+        "model": -1895279849
+    },
+    {
+        "id": 50,
+        "rotation": {
+            "z": -20.99992179870605,
+            "y": -0.0,
+            "x": -0.0
+        },
+        "type": "delete",
+        "coords": {
+            "z": 60.51165008544922,
+            "y": -212.1129608154297,
+            "x": 307.5005187988281
+        },
+        "options": {
+            "freeze": false,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": false
+        },
+        "model": -1895279849
+    },
+    {
+        "id": 51,
+        "rotation": {
+            "z": 68.99998474121094,
+            "y": 0.0,
+            "x": 0.0
+        },
+        "type": "delete",
+        "coords": {
+            "z": 60.51165008544922,
+            "y": -218.86273193359376,
+            "x": 311.8776550292969
+        },
+        "options": {
+            "freeze": false,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": false
+        },
+        "model": -1895279849
+    },
+    {
+        "id": 52,
+        "rotation": {
+            "z": 68.99998474121094,
+            "y": 0.0,
+            "x": 0.0
+        },
+        "type": "delete",
+        "coords": {
+            "z": 60.51165008544922,
+            "y": -218.86273193359376,
+            "x": 311.8776550292969
+        },
+        "options": {
+            "freeze": false,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": false
+        },
+        "model": -1895279849
+    },
+    {
+        "id": 74,
+        "rotation": {
+            "z": -113.79061889648438,
+            "y": -0.0,
+            "x": 0.0
+        },
+        "type": "spawn",
+        "coords": {
+            "z": 53.08022308349609,
+            "y": -234.5478057861328,
+            "x": 322.32220458984377
+        },
+        "options": {
+            "freeze": 1,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": true
+        },
+        "model": -365135956
+    },
+    {
+        "id": 72,
+        "rotation": {
+            "z": 0.0,
+            "y": 0.0,
+            "x": 0.0
+        },
+        "type": "spawn",
+        "coords": {
+            "z": 52.94668960571289,
+            "y": -232.39208984375,
+            "x": 318.7461547851563
+        },
+        "options": {
+            "freeze": 1,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": true
+        },
+        "model": -259356231
+    },
+    {
+        "id": 73,
+        "rotation": {
+            "z": 0.11618161946535,
+            "y": 0.0,
+            "x": 0.0
+        },
+        "type": "spawn",
+        "coords": {
+            "z": 53.01965713500976,
+            "y": -232.9562530517578,
+            "x": 320.1983947753906
+        },
+        "options": {
+            "freeze": 1,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": true
+        },
+        "model": -259356231
+    },
+    {
+        "id": 73,
+        "rotation": {
+            "z": 0.0,
+            "y": 0.0,
+            "x": 0.0
+        },
+        "type": "spawn",
+        "coords": {
+            "z": 52.96908950805664,
+            "y": -231.34979248046876,
+            "x": 315.9580078125
+        },
+        "options": {
+            "freeze": 1,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": true
+        },
+        "model": -259356231
+    },
+    {
+        "id": 73,
+        "rotation": {
+            "z": 0.0,
+            "y": 0.0,
+            "x": 0.0
+        },
+        "type": "spawn",
+        "coords": {
+            "z": 52.98504638671875,
+            "y": -230.78211975097657,
+            "x": 314.3674926757813
+        },
+        "options": {
+            "freeze": 1,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": true
+        },
+        "model": -259356231
+    },
+    {
+        "id": 59,
+        "rotation": {
+            "z": 0.0,
+            "y": -0.0,
+            "x": 0.0
+        },
+        "type": "spawn",
+        "coords": {
+            "z": 52.88682174682617,
+            "y": -230.28778076171876,
+            "x": 312.9953918457031
+        },
+        "options": {
+            "freeze": true,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": true
+        },
+        "model": -259356231
+    },
+    {
+        "id": 60,
+        "rotation": {
+            "z": -20.99992179870605,
+            "y": -0.0,
+            "x": -0.0
+        },
+        "type": "delete",
+        "coords": {
+            "z": 53.02999877929687,
+            "y": -218.2346954345703,
+            "x": 317.34716796875
+        },
+        "options": {
+            "freeze": false,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": false
+        },
+        "model": -1572767351
+    },
+    {
+        "id": 61,
+        "rotation": {
+            "z": -20.99992179870605,
+            "y": -0.0,
+            "x": -0.0
+        },
+        "type": "delete",
+        "coords": {
+            "z": 53.02999877929687,
+            "y": -218.2346954345703,
+            "x": 317.34716796875
+        },
+        "options": {
+            "freeze": false,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": false
+        },
+        "model": -1572767351
+    },
+    {
+        "id": 62,
+        "rotation": {
+            "z": 159.0000457763672,
+            "y": -0.0,
+            "x": 0.0
+        },
+        "type": "delete",
+        "coords": {
+            "z": 53.0164566040039,
+            "y": -219.77601623535157,
+            "x": 336.8569030761719
+        },
+        "options": {
+            "freeze": false,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": false
+        },
+        "model": -1572767351
+    },
+    {
+        "id": 63,
+        "rotation": {
+            "z": 159.0000457763672,
+            "y": -0.0,
+            "x": 0.0
+        },
+        "type": "delete",
+        "coords": {
+            "z": 53.0164566040039,
+            "y": -219.77601623535157,
+            "x": 336.8569030761719
+        },
+        "options": {
+            "freeze": false,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": false
+        },
+        "model": -1572767351
+    },
+    {
+        "id": 64,
+        "rotation": {
+            "z": 108.7060546875,
+            "y": -0.43986737728118,
+            "x": -0.15490666031837
+        },
+        "type": "delete",
+        "coords": {
+            "z": 53.22768020629883,
+            "y": -193.5465087890625,
+            "x": 327.4587707519531
+        },
+        "options": {
+            "freeze": false,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": false
+        },
+        "model": -741944541
+    },
+    {
+        "id": 65,
+        "rotation": {
+            "z": 108.7060546875,
+            "y": -0.43986737728118,
+            "x": -0.15490666031837
+        },
+        "type": "delete",
+        "coords": {
+            "z": 53.22768020629883,
+            "y": -193.5465087890625,
+            "x": 327.4587707519531
+        },
+        "options": {
+            "freeze": false,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": false
+        },
+        "model": -741944541
+    },
+    {
+        "id": 66,
+        "rotation": {
+            "z": -174.9296417236328,
+            "y": 0.12052675336599,
+            "x": -0.04173645749688
+        },
+        "type": "delete",
+        "coords": {
+            "z": 53.2341079711914,
+            "y": -192.07217407226569,
+            "x": 328.831298828125
+        },
+        "options": {
+            "freeze": false,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": false
+        },
+        "model": -741944541
+    },
+    {
+        "id": 67,
+        "rotation": {
+            "z": -174.9296417236328,
+            "y": 0.12052675336599,
+            "x": -0.04173645749688
+        },
+        "type": "delete",
+        "coords": {
+            "z": 53.2341079711914,
+            "y": -192.07217407226569,
+            "x": 328.831298828125
+        },
+        "options": {
+            "freeze": false,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": false
+        },
+        "model": -741944541
+    },
+    {
+        "id": 68,
+        "rotation": {
+            "z": 72.49036407470703,
+            "y": 0.29699492454528,
+            "x": -0.2865477502346
+        },
+        "type": "delete",
+        "coords": {
+            "z": 53.23088455200195,
+            "y": -191.3468780517578,
+            "x": 328.62744140625
+        },
+        "options": {
+            "freeze": false,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": false
+        },
+        "model": -741944541
+    },
+    {
+        "id": 69,
+        "rotation": {
+            "z": 72.49036407470703,
+            "y": 0.29699492454528,
+            "x": -0.2865477502346
+        },
+        "type": "delete",
+        "coords": {
+            "z": 53.23088455200195,
+            "y": -191.3468780517578,
+            "x": 328.62744140625
+        },
+        "options": {
+            "freeze": false,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": false
+        },
+        "model": -741944541
+    },
+    {
+        "id": 70,
+        "rotation": {
+            "z": -20.99992179870605,
+            "y": -0.0,
+            "x": -0.0
+        },
+        "type": "delete",
+        "coords": {
+            "z": 53.09595108032226,
+            "y": -209.9170074462891,
+            "x": 310.9541931152344
+        },
+        "options": {
+            "freeze": false,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": false
+        },
+        "model": -1572767351
+    },
+    {
+        "id": 71,
+        "rotation": {
+            "z": -20.99992179870605,
+            "y": -0.0,
+            "x": -0.0
+        },
+        "type": "delete",
+        "coords": {
+            "z": 53.09595108032226,
+            "y": -209.9170074462891,
+            "x": 310.9541931152344
+        },
+        "options": {
+            "freeze": false,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": false
+        },
+        "model": -1572767351
+    },
+    {
+        "id": 72,
+        "rotation": {
+            "z": 0.11618161946535,
+            "y": 0.0,
+            "x": 0.0
+        },
+        "type": "spawn",
+        "coords": {
+            "z": 53.06654357910156,
+            "y": -232.9562530517578,
+            "x": 320.1983947753906
+        },
+        "options": {
+            "freeze": true,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": true
+        },
+        "model": "prop_bollard_04"
+    },
+    {
+        "id": 72,
+        "rotation": {
+            "z": 68.56573486328125,
+            "y": 0.0,
+            "x": 0.0
+        },
+        "type": "spawn",
+        "coords": {
+            "z": 53.03508758544922,
+            "y": -230.3872985839844,
+            "x": 311.9981689453125
+        },
+        "options": {
+            "freeze": true,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": true
+        },
+        "model": "prop_streetlight_07a"
+    },
+    {
+        "id": 73,
+        "rotation": {
+            "z": -113.7906265258789,
+            "y": -0.0,
+            "x": 0.0
+        },
+        "type": "spawn",
+        "coords": {
+            "z": 53.08022308349609,
+            "y": -234.5478057861328,
+            "x": 322.32220458984377
+        },
+        "options": {
+            "freeze": true,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": true
+        },
+        "model": "prop_streetlight_07a"
+    },
+    {
+        "id": 74,
+        "rotation": {
+            "z": -23.09310340881347,
+            "y": -0.0,
+            "x": -0.0
+        },
+        "type": "spawn",
+        "coords": {
+            "z": 53.2901725769043,
+            "y": -202.98008728027345,
+            "x": 328.7520446777344
+        },
+        "options": {
+            "freeze": true,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": true
+        },
+        "model": "p_ld_coffee_vend_s"
+    },
+    {
+        "id": 81,
+        "rotation": {
+            "z": -23.09310340881347,
+            "y": -0.0,
+            "x": -0.0
+        },
+        "type": "spawn",
+        "coords": {
+            "z": 53.2901725769043,
+            "y": -202.2544860839844,
+            "x": 329.1359558105469
+        },
+        "options": {
+            "freeze": 1,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": true
+        },
+        "model": -2015792788
+    },
+    {
+        "id": 81,
+        "rotation": {
+            "z": 116.4920425415039,
+            "y": -0.0,
+            "x": 0.0
+        },
+        "type": "spawn",
+        "coords": {
+            "z": 53.10082244873047,
+            "y": -210.0995330810547,
+            "x": 327.105224609375
+        },
+        "options": {
+            "freeze": 1,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": true
+        },
+        "model": 1805980844
+    },
+    {
+        "id": 80,
+        "rotation": {
+            "z": 0.0,
+            "y": -0.0,
+            "x": 0.0
+        },
+        "type": "spawn",
+        "coords": {
+            "z": 53.276123046875,
+            "y": -211.16390991210936,
+            "x": 324.66961669921877
+        },
+        "options": {
+            "freeze": 1,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": true
+        },
+        "model": 1352295901
+    },
+    {
+        "id": 81,
+        "rotation": {
+            "z": 25.14453315734863,
+            "y": 0.0,
+            "x": 0.0
+        },
+        "type": "spawn",
+        "coords": {
+            "z": 53.10017395019531,
+            "y": -213.7198944091797,
+            "x": 326.0320434570313
+        },
+        "options": {
+            "freeze": 1,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": true
+        },
+        "model": 1805980844
+    },
+    {
+        "id": 79,
+        "rotation": {
+            "z": 113.99236297607422,
+            "y": -0.0,
+            "x": 0.0
+        },
+        "type": "spawn",
+        "coords": {
+            "z": 53.10082244873047,
+            "y": -210.0995330810547,
+            "x": 327.105224609375
+        },
+        "options": {
+            "freeze": true,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": true
+        },
+        "model": "prop_bench_01a"
+    },
+    {
+        "id": 80,
+        "rotation": {
+            "z": -154.14369201660157,
+            "y": -0.0,
+            "x": 0.0
+        },
+        "type": "spawn",
+        "coords": {
+            "z": 53.10082244873047,
+            "y": -209.01113891601569,
+            "x": 323.4283752441406
+        },
+        "options": {
+            "freeze": true,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": true
+        },
+        "model": "prop_bench_01a"
+    },
+    {
+        "id": 81,
+        "rotation": {
+            "z": 68.98162841796875,
+            "y": 0.0,
+            "x": 0.0
+        },
+        "type": "spawn",
+        "coords": {
+            "z": 53.09381866455078,
+            "y": -221.2205047607422,
+            "x": 316.63568115234377
+        },
+        "options": {
+            "freeze": true,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": true
+        },
+        "model": "prop_plant_int_05a"
+    },
+    {
+        "id": 85,
+        "rotation": {
+            "z": 69.97959899902344,
+            "y": 0.0,
+            "x": 0.0
+        },
+        "type": "spawn",
+        "coords": {
+            "z": 53.07340621948242,
+            "y": -223.6997528076172,
+            "x": 315.5294494628906
+        },
+        "options": {
+            "freeze": 1,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": true
+        },
+        "model": 1680905773
+    },
+    {
+        "id": 83,
+        "rotation": {
+            "z": 69.70685577392578,
+            "y": 0.0,
+            "x": 0.0
+        },
+        "type": "spawn",
+        "coords": {
+            "z": 53.03266143798828,
+            "y": -225.1020660400391,
+            "x": 324.8707275390625
+        },
+        "options": {
+            "freeze": true,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": true
+        },
+        "model": "prop_plant_int_05a"
+    },
+    {
+        "id": 84,
+        "rotation": {
+            "z": 69.19029235839844,
+            "y": 0.0,
+            "x": 0.0
+        },
+        "type": "spawn",
+        "coords": {
+            "z": 53.03022766113281,
+            "y": -227.26104736328129,
+            "x": 324.131591796875
+        },
+        "options": {
+            "freeze": true,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": true
+        },
+        "model": 1680905773
+    },
+    {
+        "id": 85,
+        "rotation": {
+            "z": -122.22323608398438,
+            "y": 0.70957797765731,
+            "x": 0.20356041193008
+        },
+        "type": "spawn",
+        "coords": {
+            "z": 55.0014419555664,
+            "y": -223.8420562744141,
+            "x": 325.531494140625
+        },
+        "options": {
+            "freeze": true,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": true
+        },
+        "model": "prop_wall_light_07a"
+    },
+    {
+        "id": 86,
+        "rotation": {
+            "z": 66.1500473022461,
+            "y": 0.0,
+            "x": 0.0
+        },
+        "type": "spawn",
+        "coords": {
+            "z": 54.85465621948242,
+            "y": -220.35006713867188,
+            "x": 316.7392272949219
+        },
+        "options": {
+            "freeze": true,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": true
+        },
+        "model": "prop_wall_light_07a"
+    },
+    {
+        "id": 87,
+        "rotation": {
+            "z": -111.0225067138672,
+            "y": -0.0,
+            "x": 0.0
+        },
+        "type": "delete",
+        "coords": {
+            "z": 53.22587203979492,
+            "y": -201.88369750976566,
+            "x": 333.8511352539063
+        },
+        "options": {
+            "freeze": false,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": false
+        },
+        "model": -1572767351
+    },
+    {
+        "id": 88,
+        "rotation": {
+            "z": -111.0225067138672,
+            "y": -0.0,
+            "x": 0.0
+        },
+        "type": "delete",
+        "coords": {
+            "z": 53.22587203979492,
+            "y": -201.88369750976566,
+            "x": 333.8511352539063
+        },
+        "options": {
+            "freeze": false,
+            "invisibility": false,
+            "invincible": true,
+            "collision": true,
+            "database": false
+        },
+        "model": -1572767351
+    }
+]
